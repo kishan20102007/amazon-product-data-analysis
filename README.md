@@ -22,7 +22,6 @@ The dataset contains product information such as ratings, reviews, prices, purch
 * Python
 * NumPy
 * Pandas
-* Matplotlib
 * Google Collabe Notebook
 
 ##  Data Cleaning
@@ -66,7 +65,7 @@ amazon-product-data-analysis/
 │   └── amazon_data_cleaning.ipynb
 │
 ├── README.md
-└── requirements.txt
+└── 
 ```
 
 ##  What I Learned
